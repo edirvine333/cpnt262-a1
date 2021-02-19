@@ -1,7 +1,7 @@
 # CPNT 262 - ASSIGNMENT 1 - classList Toggle  
 
-Repository Link: [cpnt262-a1]()  
-GitHub Page: [cpnt262-a1]()  
+Repository Link: [cpnt262-a1](https://github.com/edirvine333/cpnt262-a1)  
+GitHub Page: [cpnt262-a1](https://edirvine333.github.io/cpnt262-a1/)   
 
 Repository Owner:  Ed Irvine  
 Repository Maintainer:  Ed Irvine  
